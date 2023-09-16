@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplicativo carros</string>
+    <string name="km_percorrido">KM percorrido</string>
+    <string name="preco_km">preco km</string>
+    <string name="etios_car">Etios Car</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="calcular_autonomia">Calcular autonomia</string>
+    <string name="calcular_custo">Calcular custo</string>
+    <string name="ops_sem_conex_o_com_o_wifi">Ops! Sem conexão com o wifi</string>
+    <string name="response_erro">Ops, internet não disponível, tente novamente</string>
+    <string name="saved_calc">saved_calc</string>
+</resources>
